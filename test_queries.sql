@@ -13,7 +13,7 @@ FROM AQI_Record
 WHERE category = 'Good'
 ORDER BY site_code;
 
--- Query 4: Using DISTINCT to remove duplicates. Shows 
+-- Query 4: Using DISTINCT to remove duplicates. 
 SELECT DISTINCT parameter_name
 FROM AQI_Record;
 
