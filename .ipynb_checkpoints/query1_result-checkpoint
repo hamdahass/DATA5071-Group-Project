@@ -1,0 +1,4 @@
+date,aqi,parameter_name,state_name
+2025-01-01,20,PM2.5,Alabama
+2025-01-01,22,PM10,Arizona
+2025-01-01,26,Ozone,Arkansas
