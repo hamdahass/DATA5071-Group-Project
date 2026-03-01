@@ -1,4 +1,22 @@
 date,aqi,parameter_name,state_name
+<<<<<<< HEAD
 2025-01-01,20,PM2.5,Alabama
 2025-01-01,22,PM10,Arizona
 2025-01-01,26,Ozone,Arkansas
+=======
+2025-01-05,8,PM2.5,Alabama
+2025-01-04,18,PM2.5,Alabama
+2025-01-01,20,PM2.5,Alabama
+2025-01-02,25,PM2.5,Alabama
+2025-01-03,30,PM2.5,Alabama
+2025-01-05,12,PM10,Arizona
+2025-01-01,22,PM10,Arizona
+2025-01-02,28,PM10,Arizona
+2025-01-03,35,PM10,Arizona
+2025-01-04,45,PM10,Arizona
+2025-01-05,18,Ozone,Arkansas
+2025-01-01,26,Ozone,Arkansas
+2025-01-03,28,Ozone,Arkansas
+2025-01-02,32,Ozone,Arkansas
+2025-01-04,40,Ozone,Arkansas
+>>>>>>> 90d1898ae97d915a2a5d91e395112e963d742a8d
